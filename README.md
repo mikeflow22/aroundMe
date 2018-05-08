@@ -1,3 +1,3 @@
 # aroundMe
 
-##Project by Michael Flowers
+## Project by Michael Flowers
